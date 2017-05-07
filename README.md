@@ -1,7 +1,7 @@
 # Trafic-Sign-Classifier-P2
 This project is build for  Traffic Sign Recognition using CNN.
 # Installation:
-* Refer [Link](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/doc/configure_via_anaconda.md) to see list of SW need to installed.
+* Refer [Link](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/doc/configure_via_anaconda.md) to se detailed steps for setting up enviroments for execution.
 * This will setup your computer to run the code on your computer.
 * Now you clone the project if not done already.
 * whole code is written in ipython notebook, so one can open it by running *$ jupyter notebook Traffic_Sign_Classifier.ipynb*
